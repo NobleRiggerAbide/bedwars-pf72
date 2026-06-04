@@ -1,4 +1,4 @@
-#  
+#  fish it Script advanced offers the most advanced fish it Script, with auto-farm and instant win. Perfect for dominating any match.
 
 
 
